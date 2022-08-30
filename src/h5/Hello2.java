@@ -7,7 +7,7 @@ public class Hello2{
 		int x=45;
 		int y=65;
 		int n=76;
-		int z=x+y+n;
+		int z=x+y*n;
 		System.out.println(z);
 	}
 }
